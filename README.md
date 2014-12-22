@@ -36,11 +36,47 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A discourse of the nauigation which the Portugales doe make to the realmes and prouinces of the east
+
+1. ❧ To the right woorshipfull Maister Edwarde Dier, of the Court esquire, Iohn Frampton wisheth encrease of woorship and of all felicitie.
+
+1. ¶ To the excellent Lorde, Don Christopher de Roias, Sandouall, Archbishop of Seuill, Barnardine of Escalanta, wisheth all honour. &c.
+
 #####Body#####
-A discourse of the nauigation which the Portugales doe make to the realmes and prouinces of the east
+
+1. ¶ The first Chapter sheweth of the beginning that the kingdome of Portugale had, and of the successe it had from the time that the king Don Iohn the fyrst did conquer Cevta in Barbarie.
+
+1. ¶ The seconde Chapter sheweth of the diligence that the infante Don Henry did vse as well to knowe of the Moores, of Cevta, and the Prouinces of the blacke people of Ialofe, as also for his armed ships which he sent in the discouerie of the coasts of Ginea euen vnto his death &c.
+
+1. The thirde Chapter of the discouerie which was made of the coastes of Ginea in the time King Don Alonso vnto his death, & of the persons that the King Don Iohn his sonne sent by the Sea Mediterran, wherby they myght bryng relation of the states and trades of India; and of the Embassage hee sent to the kyng of Aethiopia.
+
+1. The fourth Chapter how that the king Don Emanuel, sent by the way of Cape Buena Esperanca, Don Vasco▪ de Gama with an embassage to the king of Calicut, & of the successe he had vntil he returned to Portugal.
+
+1. The V. Chapter sheweth howe the king Don Emanuel did send a greate fleet of shippes to the Indias with a knight called Pedraluarez Cabral, and howe hee discouered in this voyage the coast of Brasil, and of other armies of ships, which are sent after vntil the tyme he gate Malaca, and had knowledge of the realme of China.
+
+1. ¶ The sixth Chapter sheweth of the discription of the lande of China, and the notable Prouinces and Realmes that are in it conteyned.
+
+1. ¶ The seuenth Chapter sheweth of the temperature of the Countrey, and the notable thinges that it bringeth foorth.
+
+1. The VIII. Chapter sheweth of the greatnes of the Cities, Temples and buildings that are in it, & that be in al the Countrie of China.
+
+1. The IX. Chapter sheweth of the countenaunce and apparel of the People, and their conditions and manners.
+
+1. The tenth Chapter sheweth of the nauigation that the people of China haue in the Seas, and also in the fresh Riuers.
+
+1. The xi. Chapter, sheweth of the letters, cyphers, and figures of the people of China, and of their studyes in generall.
+
+1. The xii. Chapter sheweth howe that of all this great Realme of China one onely Prince is King and Lorde: and of his Councell and Maiestie, of his house, and Court.
+
+1. The XIII. Chapter sheweth of the Presidentes and Officers, which are in euery Prouince, and the order which they haue in the Gouernment of them.
+
+1. The xv. Chapter sheweth of the religion, lawes, and ceremonies which they haue and vse.
+
+1. The xvi. Chapter sheweth of the order that may be had, wherby these people may turne to be Christians, and of the nauigation that is made from the newe Spaine, vntoo the Ilande of the West partes, called the Philippinas.
+
 #####Back#####
-A discourse of the nauigation which the Portugales doe make to the realmes and prouinces of the east
+AL that is written of the great lordship of China in this woorke, I haue gathered my selfe with grea
+1. The 〈◊〉  of the Chapters 〈◊〉 are conteyned in this Booke.
+Imprinted at London by Thomas Dawson, dwelling at the three Cranes in the Vinetree. 1579.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
